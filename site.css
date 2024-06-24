@@ -113,12 +113,7 @@ h1 {
 .card {
     transition: 0.3s;
     width: 90%;
-    background-color: #243748);
-
-}
-
-.card-title {
-  
+    background-color: #243748;
 }
 
 .card-content {
